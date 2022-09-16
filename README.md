@@ -1,16 +1,22 @@
 # localstorage_vidplayer
 
-A new Flutter project.
+Flutter example local storage & video player
 
-## Getting Started
+## Local storage
 
-This project is a starting point for a Flutter application.
+### Home screen
 
-A few resources to get you started if this is your first Flutter project:
+![](images/1.JPG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Show Dialog
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](images/2.JPG)
+
+### Select image
+
+![](images/3.JPG)
+
+### Result
+
+![](images/4.JPG)
+
