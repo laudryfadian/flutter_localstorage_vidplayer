@@ -20,3 +20,13 @@ Flutter example local storage & video player
 
 ![](images/4.JPG)
 
+
+## Video player
+
+### Video
+
+![](images/5.JPG)
+
+### Playing Video
+
+![](images/6.JPG)
